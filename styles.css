@@ -1,0 +1,41 @@
+<style>
+	div {
+  		color: white;
+	}
+
+	body {
+ 		background-image: url('bg.jpg');
+		background-repeat: no-repeat;
+  		background-attachment: fixed;
+  		background-size: 100% 100%;
+		color: white;
+	}
+
+	table {
+		width: 50%;
+	}
+
+	table, th, td {
+		border: 0px solid white;
+		border-collapse: collapse;
+		text-align: center;
+	}
+
+	h1 {
+		color: #ff891b;
+		font-size: 35px;
+		
+	}
+	
+	h2 {
+		color: #ff9a2c;
+		font-size: 25px;
+		line-height: 0.2;
+	}
+
+	h3 {
+		color: white;
+		font-size: 21px;
+		line-height: 0.2;
+	}
+</style>
